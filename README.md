@@ -1,10 +1,13 @@
 # Hi, I am James Duncan 👋 
 
 🎓 Computer Science Graduate | Master of Applied Data Science (In Progress) 
+
 📍 Christchurch, New Zealand | Open to Relocation & Remote Work 
+
 📧 jamesduncan0404@gmail.com 
 
---- ## About Me 
+
+## About Me 
 I am a data science practitioner and independent developer currently completing a Master of Applied Data Science at the University of Canterbury. My work spans machine learning, natural language processing, big data computing, and independent game modding. I love solving complex problems — whether that is building NLP pipelines, training neural networks, reverse-engineering game files, or designing extensible systems that real users enjoy. My published Elden Ring mod has been downloaded by 97+ unique users and represents my commitment to building polished, well-documented, user-centred software. 
 
 I am currently seeking entry-level or junior roles in: 
@@ -12,7 +15,9 @@ I am currently seeking entry-level or junior roles in:
 - 💻 Software Development
 - 🎮 Game Development
 
---- ## 🎓 Education 
+
+## 🎓 Education 
+
 **Master of Applied Data Science** *(In Progress)* 
 University of Canterbury | 2026 - 2027 
 | Paper   | Title                             | Status   | 
@@ -27,7 +32,9 @@ University of Canterbury | 2026 - 2027
 **Bachelor of Science — Computer Science (Minor: Philosophy)** 
 University of Canterbury | 2020 - 2024 
 
---- ## 🛠️ Technical Skills 
+ 
+## 🛠️ Technical Skills 
+
 ### Languages 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) 
@@ -47,7 +54,8 @@ University of Canterbury | 2020 - 2024
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
 
---- ## 📂 Featured Projects 
+
+## 📂 Featured Projects 
 
 ### 🎮 DeflectMeNot Additions 
 — Published Elden Ring Mod [![Nexus Mods](https://img.shields.io/badge/Nexus_Mods-97+_Downloads-orange)](https://www.nexusmods.com/eldenring/mods/8706) 
@@ -69,18 +77,20 @@ A published mod developed across four iterative phases, extending an existing El
 | 📦 Steam Bundle Recommender | Python, Dask | Big data recommendation system | 
 | 🧠 Neural Network Analysis | Python, Keras | Configuration optimisation study | 
 | ⛏️ Data Mining — STAT462 | Python | Pattern recognition & supervised learning | 
-
---- ### 🏢 Volunteer Projects *(Coming Soon)* 
+ 
+### 🏢 Volunteer Projects *(Coming Soon)* 
 
 | Project | Focus | 
 |---------|-------| 
 | 🏠 Property Management AI | Predictive modelling & rental analytics | 
 | 🛒 British Foods Inventory Analysis | Order optimisation & trend modelling | 
 
---- ## 📈 GitHub Stats ![James's GitHub Stats]
+ 
+## 📈 GitHub Stats ![James's GitHub Stats]
 (https://github-readme-stats.vercel.app/api?username=ABloodehNumpty&show_icons=true&theme=default) 
 
---- ## 📫 Connect With Me [![Email](https://img.shields.io/badge/Email-jamesduncan0404@gmail.com-red)](mailto:jamesduncan0404@gmail.com) 
+ 
+## 📫 Connect With Me [![Email](https://img.shields.io/badge/Email-jamesduncan0404@gmail.com-red)](mailto:jamesduncan0404@gmail.com) 
 [![Nexus Mods](https://img.shields.io/badge/Nexus_Mods-Published_Mod-orange)](https://www.nexusmods.com/eldenring/mods/8706) 
 
 --- *Open to entry-level and junior opportunities in Data Science, Machine Learning, Software Development, and Game Development. Willing to relocate. Available for remote work.*
