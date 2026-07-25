@@ -69,7 +69,7 @@ A published mod developed across four iterative phases, extending an existing El
 - Extensible Lua architecture for maximum user customisation
 - Full user documentation and community feedback
 
---- ### 📊 Data Science & Machine Learning Projects 
+### 📊 Data Science & Machine Learning Projects 
 
 | Project | Tools | Description | 
 |---------|-------|-------------| 
